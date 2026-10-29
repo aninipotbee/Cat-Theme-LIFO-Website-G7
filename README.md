@@ -164,8 +164,6 @@ This behavior must be demonstrated through the actual website and not only throu
 
 ## 8. Testing
 
-Record the actual results in `docs/TEST_LOG.md`.
-
 | Test | Action | Expected Result |
 |---|---|---|
 | Push | Push A, B, and C. | Stack order is A, B, C from bottom to top. |
@@ -186,18 +184,7 @@ Record the actual results in `docs/TEST_LOG.md`.
 - Evidence of persistence after refreshing or restarting the application.
 - Final test results.
 
-## 10. Known Limitations
-
-Document any limitations discovered during testing, such as:
-
-- Whether recovery records remain after restarting the application.
-- Whether the stack and database remain synchronized after restoration.
-- How the application handles missing or invalid item IDs.
-- How errors are displayed to users.
-
-Only describe a problem as fixed after testing the solution.
-
-## 11. Team Contributions
+## 10. Team Contributions
 
 | Role | Assigned Member |
 |---|---|
@@ -208,6 +195,6 @@ Only describe a problem as fixed after testing the solution.
 | QA & Documentation Lead | Daisy Mantalaba |
 
 
-## 12. References and Attribution
+## 11. References and Attribution
 
 - **Original starter project:** [(https://github.com/franku69/Website-Stack-Data-Structure)]
